@@ -7,7 +7,7 @@ date: '2022-08-03 09:52:47 -0400'
 category:
         - spring_basics
         - spring_boot
-thumbnail: /assets/img/posts/code.jpg
+thumbnail: /assets/img/posts/response-entity.png
 keywords: responseentity java,spring boot responseentity,spring responseentity,response entity in rest api,springboot responseentity
 permalink: /blog/response-entity-in-spring-boot
 usemathjax: true

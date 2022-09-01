@@ -27,7 +27,7 @@ author_email: "contact@letslearnspring"
 author_location: 
 author_website_url: "https://letslearnspring.com"
 typewrite-text: letslearnspring is a blog specialized in modern technologies, mainly Spring, React and NextJs. I'll try to share here my journey and all the tips and tricks I learned along the way.
-hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
+hero_cover_img: sample_cover.png # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
